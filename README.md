@@ -1,6 +1,8 @@
 # Markdown 
 ---
-# Overview 
+# Learning markdown
+
+## Overview 
 
 ## Session Outline
 ![Markdown class](/Markdown_class.jpg)
